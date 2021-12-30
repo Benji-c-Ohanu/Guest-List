@@ -17,9 +17,13 @@ else
 if your name is not present is displays a message saying, Sorry try again next time.
 
 TECHNOLOGIES 
+
 HTML
+
 CSS
+
 JAVASCRIPT
+
 VISUAL STUDIO CODE
 
 
