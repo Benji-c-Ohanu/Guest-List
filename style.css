@@ -1,0 +1,17 @@
+body {
+
+background-color: rgb(3, 3, 53);
+}
+p,h1   
+{
+  color: rgb(255, 255, 255);
+  font-family: 'Great Vibes', cursive;
+}
+
+.container
+ {
+   position: relative;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+}
